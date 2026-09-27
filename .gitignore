@@ -1,0 +1,6 @@
+/server
+/nextendo-telemetry-nx
+*.out
+*.pem
+.env
+/dumps/
