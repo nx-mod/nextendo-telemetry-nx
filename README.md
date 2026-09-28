@@ -35,3 +35,7 @@ go test ./...
 - **[switchbrew](https://switchbrew.org/wiki/Services_API)** / **[kinnay/NintendoClients](https://github.com/kinnay/NintendoClients/wiki)** — the prepo/erpt telemetry endpoints.
 
 Protocol facts were read and reimplemented; no code was copied.
+
+## Credits
+
+Built by nx-mod for the **Nextendo Network**, on the work of the Nextendo Network team — https://nextendo.network. Nextendo is awesome.
