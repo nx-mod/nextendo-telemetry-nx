@@ -1,5 +1,7 @@
 # nextendo-telemetry-nx
 
+**A new service implementation by nx-mod** for the Nextendo Network.
+
 Telemetry **sink** for [Nextendo Network](https://nextendo.network). Source only. Not affiliated with Nintendo.
 
 ## Why
